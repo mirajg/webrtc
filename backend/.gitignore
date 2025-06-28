@@ -1,0 +1,5 @@
+
+# to stop .env file from tracking. 
+
+.env 
+/node_modules
